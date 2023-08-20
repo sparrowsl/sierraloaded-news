@@ -1,0 +1,16 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Sparrow", email = "benthorpe.dev@gmail.com"},
+]
+dependencies = [
+    "beautifulsoup4>=4.12.2",
+    "requests>=2.31.0",
+    "lxml>=4.9.3",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
