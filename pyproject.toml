@@ -14,3 +14,5 @@ requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "MIT"}
 
+[tool.pdm.scripts]
+start = "python3 src/app.py"
